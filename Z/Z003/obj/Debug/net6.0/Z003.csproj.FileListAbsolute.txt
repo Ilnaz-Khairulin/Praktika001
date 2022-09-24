@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\Z003.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\Z003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\Z003.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\Z003.AssemblyInfo.cs
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\Z003.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\bin\Debug\net6.0\Z003.exe
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\bin\Debug\net6.0\Z003.deps.json
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\bin\Debug\net6.0\Z003.runtimeconfig.json
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\bin\Debug\net6.0\Z003.dll
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\bin\Debug\net6.0\Z003.pdb
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\Z003.dll
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\refint\Z003.dll
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\Z003.pdb
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\Z003.genruntimeconfig.cache
+C:\Users\home\Desktop\Uchoba\Praktika001\Z\Z003\obj\Debug\net6.0\ref\Z003.dll

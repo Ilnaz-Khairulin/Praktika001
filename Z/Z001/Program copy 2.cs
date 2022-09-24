@@ -5,7 +5,7 @@
 
 partial class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         int number = 0;
         number = new Random().Next(1, 10);
@@ -15,7 +15,7 @@ partial class Program
         int i = 0;
         while (i < number)
         {
-            arye[i] = Convert.ToInt32(Math.Pow((i + 1), 3));
+            arye[i] = Convert.ToInt32(Math.Pow(i + 1, 3));
             i++;
         }
         Console.WriteLine(arye[i]);
